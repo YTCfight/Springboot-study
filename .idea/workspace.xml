@@ -120,6 +120,7 @@
       <workItem from="1587638879330" duration="2239000" />
       <workItem from="1587641319630" duration="1540000" />
       <workItem from="1587643592369" duration="5790000" />
+      <workItem from="1587651515465" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="杨同春">
       <created>1587307625933</created>
@@ -149,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587649223123</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="杨同春">
+      <created>1587651571433</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587651571433</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,10 +176,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="489" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587646236420" />
-    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1587649222884">
+    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1587651571082">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587649222884" />
+    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587651571082" />
     <state width="1388" height="289" key="GridCell.Tab.0.bottom" timestamp="1587651419190">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -232,14 +240,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="120" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587613247512" />
-    <state x="220" y="112" key="Vcs.Push.Dialog.v2" timestamp="1587649291406">
+    <state x="220" y="112" key="Vcs.Push.Dialog.v2" timestamp="1587651576162">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="220" y="112" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587649291406" />
+    <state x="220" y="112" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587651576162" />
     <state x="497" y="159" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587640786123">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="497" y="159" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1587640786123" />
+    <state x="369" y="206" key="git4idea.merge.GitPullDialog" timestamp="1587651818707">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="206" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1587651818707" />
     <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1587644968142">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
