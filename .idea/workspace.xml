@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9cc2260-204d-4c74-a8a7-5ec0072358c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/config/ControllerInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/config/LoginInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/config/MVCConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.ftlh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frank/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frank/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/frank/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frank/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/public/login.html" afterDir="false" />
-    </list>
+    <list default="true" id="c9cc2260-204d-4c74-a8a7-5ec0072358c4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +117,7 @@
       <workItem from="1587612779425" duration="950000" />
       <workItem from="1587638879330" duration="2239000" />
       <workItem from="1587641319630" duration="1540000" />
-      <workItem from="1587643592369" duration="4778000" />
+      <workItem from="1587643592369" duration="5046000" />
     </task>
     <task id="LOCAL-00001" summary="杨同春">
       <created>1587307625933</created>
@@ -140,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587307625933</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="杨同春">
+      <created>1587648988234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587648988234</updated>
+    </task>
+    <task id="LOCAL-00003" summary="杨同春">
+      <created>1587649054857</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587649054857</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,10 +159,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="489" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587646236420" />
-    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1587648987882">
+    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1587649054620">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587648987882" />
+    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587649054620" />
     <state width="1388" height="237" key="GridCell.Tab.0.bottom" timestamp="1587648954446">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -223,10 +223,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="120" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587613247512" />
-    <state x="220" y="112" key="Vcs.Push.Dialog.v2" timestamp="1587648990937">
+    <state x="220" y="112" key="Vcs.Push.Dialog.v2" timestamp="1587649072116">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="220" y="112" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587648990937" />
+    <state x="220" y="112" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587649072116" />
     <state x="497" y="159" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587640786123">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
