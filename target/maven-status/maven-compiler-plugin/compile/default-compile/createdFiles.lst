@@ -1,0 +1,7 @@
+frank/controller/LoginController.class
+frank/model/User.class
+frank/model/Duck.class
+frank/config/MVCConfig.class
+frank/config/LoginInterceptor.class
+frank/Application.class
+frank/config/ControllerInterceptor.class

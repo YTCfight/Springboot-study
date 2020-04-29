@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 @Controller
+// ("/user")可以加或者不加
 @RequestMapping("/user")
 public class LoginController {
 
@@ -78,7 +79,7 @@ public class LoginController {
 
 
     @RequestMapping("/login7")
-    // 返回 freemark 动态网页模板生成的网页内容
+    // 返回 freemarker 动态网页模板生成的网页内容
     public String login7(Model model) {
         model.addAttribute("duck", new Duck("LadyGaga", 2020));
         return "/index";
