@@ -5,8 +5,8 @@ import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-@ControllerAdvice
-@Configuration
+//@ControllerAdvice
+//@Configuration
 public class MVCConfig implements WebMvcConfigurer {
     // 拦截器
     // 根据 url 进行拦截，调用配置的拦截器进行处理

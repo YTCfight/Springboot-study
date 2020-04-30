@@ -2,56 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9cc2260-204d-4c74-a8a7-5ec0072358c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c2073656-6b7b-4e2e-9efa-99ce47d6d2e9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c2073656-6b7b-4e2e-9efa-99ce47d6d2e9/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/db_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/proxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/proxy/cglib/CglibService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/proxy/cglib/CglibServiceInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/proxy/jdk/IJdkService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/proxy/jdk/JdkService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example/proxy/jdk/JdkServiceProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/mapper/ArticleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/mapper/CategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/mapper/CommentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/model/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/model/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/frank/model/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/generator/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ArticleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/CommentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/example/proxy/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/example/proxy/cglib/CglibService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/example/proxy/cglib/CglibServiceInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/example/proxy/jdk/IJdkService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/example/proxy/jdk/JdkService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/example/proxy/jdk/JdkServiceProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springboot-study-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springboot-study-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/frank/controller/User2Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/frank/service/ArticleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/frank/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/info.ftlh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/frank/config/MVCConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frank/config/MVCConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frank/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frank/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frank/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frank/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frank/mapper/ArticleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frank/mapper/ArticleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frank/mapper/CategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frank/mapper/CategoryMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frank/mapper/CommentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frank/mapper/CommentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frank/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frank/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frank/model/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frank/model/Article.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/springboot-study-maven.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ArticleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/ArticleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/frank/config/MVCConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frank/config/MVCConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/frank/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frank/controller/LoginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/public/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frank/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frank/model/User.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +41,36 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="article: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="ExecutionTargetDialog">
     <checked>
-      <node key="c2073656-6b7b-4e2e-9efa-99ce47d6d2e9" />
+      <node key="c2073656-6b7b-4e2e-9efa-99ce47d6d2e9">
+        <node key="blog" />
+      </node>
     </checked>
+    <expanded>
+      <node key="c2073656-6b7b-4e2e-9efa-99ce47d6d2e9" />
+    </expanded>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,23 +115,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Spring Boot.Application">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.proxy.Main" />
       <module name="springboot-study-maven" />
@@ -170,8 +161,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +179,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:MySQL for 5.1 - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@3d6aba52" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@74c962c8" type="9fbbdea:ServiceModel$ServiceNode" />
               </path>
             </expand>
             <select />
@@ -229,7 +220,10 @@
       <workItem from="1587863583235" duration="13000" />
       <workItem from="1588136393041" duration="14000" />
       <workItem from="1588136503915" duration="442000" />
-      <workItem from="1588161842734" duration="4602000" />
+      <workItem from="1588161842734" duration="4827000" />
+      <workItem from="1588204620254" duration="116000" />
+      <workItem from="1588214116709" duration="3303000" />
+      <workItem from="1588233695612" duration="6101000" />
     </task>
     <task id="LOCAL-00001" summary="杨同春">
       <created>1587307625933</created>
@@ -273,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587651890125</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="杨同春">
+      <created>1588171355019</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588171355019</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +285,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="杨同春" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="220" y="34" key="#Inspections" timestamp="1588214598673">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="34" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1588214598673" />
     <state x="130" y="107" width="1310" height="686" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588170422119">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -292,53 +297,53 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="489" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587646236420" />
-    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1587651889753">
+    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1588171354575">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587651889753" />
-    <state x="479" y="104" key="ExecutionTargetDialog" timestamp="1588170470125">
+    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588171354575" />
+    <state x="479" y="104" key="ExecutionTargetDialog" timestamp="1588230763135">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="479" y="104" key="ExecutionTargetDialog/0.0.1440.900@0.0.1440.900" timestamp="1588170470125" />
-    <state width="1388" height="237" key="GridCell.Tab.0.bottom" timestamp="1588171001435">
+    <state x="479" y="104" key="ExecutionTargetDialog/0.0.1440.900@0.0.1440.900" timestamp="1588230763135" />
+    <state width="1388" height="237" key="GridCell.Tab.0.bottom" timestamp="1588251860783">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588171001435" />
+    <state width="1388" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588251860783" />
     <state width="1388" height="237" key="GridCell.Tab.0.bottom/46.23.1394.877@46.23.1394.877" timestamp="1587648926387" />
-    <state width="1388" height="237" key="GridCell.Tab.0.center" timestamp="1588171001430">
+    <state width="1388" height="237" key="GridCell.Tab.0.center" timestamp="1588251860782">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588171001430" />
+    <state width="1388" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588251860782" />
     <state width="1388" height="237" key="GridCell.Tab.0.center/46.23.1394.877@46.23.1394.877" timestamp="1587648926384" />
-    <state width="1388" height="237" key="GridCell.Tab.0.left" timestamp="1588171001428">
+    <state width="1388" height="237" key="GridCell.Tab.0.left" timestamp="1588251860779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588171001428" />
+    <state width="1388" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588251860779" />
     <state width="1388" height="237" key="GridCell.Tab.0.left/46.23.1394.877@46.23.1394.877" timestamp="1587648926383" />
-    <state width="1388" height="237" key="GridCell.Tab.0.right" timestamp="1588171001433">
+    <state width="1388" height="237" key="GridCell.Tab.0.right" timestamp="1588251860783">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588171001433" />
+    <state width="1388" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588251860783" />
     <state width="1388" height="237" key="GridCell.Tab.0.right/46.23.1394.877@46.23.1394.877" timestamp="1587648926386" />
-    <state width="1388" height="237" key="GridCell.Tab.1.bottom" timestamp="1587717301746">
+    <state width="1388" height="237" key="GridCell.Tab.1.bottom" timestamp="1588251860786">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="237" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587717301746" />
+    <state width="1388" height="237" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588251860786" />
     <state width="1388" height="237" key="GridCell.Tab.1.bottom/46.23.1394.877@46.23.1394.877" timestamp="1587648926390" />
-    <state width="1388" height="237" key="GridCell.Tab.1.center" timestamp="1587717301744">
+    <state width="1388" height="237" key="GridCell.Tab.1.center" timestamp="1588251860785">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="237" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1587717301744" />
+    <state width="1388" height="237" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588251860785" />
     <state width="1388" height="237" key="GridCell.Tab.1.center/46.23.1394.877@46.23.1394.877" timestamp="1587648926389" />
-    <state width="1388" height="237" key="GridCell.Tab.1.left" timestamp="1587717301744">
+    <state width="1388" height="237" key="GridCell.Tab.1.left" timestamp="1588251860784">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="237" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1587717301744" />
+    <state width="1388" height="237" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588251860784" />
     <state width="1388" height="237" key="GridCell.Tab.1.left/46.23.1394.877@46.23.1394.877" timestamp="1587648926388" />
-    <state width="1388" height="237" key="GridCell.Tab.1.right" timestamp="1587717301745">
+    <state width="1388" height="237" key="GridCell.Tab.1.right" timestamp="1588251860785">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="237" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1587717301745" />
+    <state width="1388" height="237" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588251860785" />
     <state width="1388" height="237" key="GridCell.Tab.1.right/46.23.1394.877@46.23.1394.877" timestamp="1587648926389" />
     <state width="1388" height="289" key="GridCell.Tab.2.bottom" timestamp="1587651419194">
       <screen x="0" y="0" width="1440" height="900" />
@@ -360,14 +365,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="254" height="548" key="HiddenNamespacesPopup/0.0.1440.900@0.0.1440.900" timestamp="1588170291456" />
-    <state x="120" y="1" key="SettingsEditor" timestamp="1587613247512">
+    <state x="120" y="1" key="SettingsEditor" timestamp="1588248837265">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="120" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587613247512" />
-    <state x="220" y="112" key="Vcs.Push.Dialog.v2" timestamp="1587651895947">
+    <state x="120" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588248837265" />
+    <state x="220" y="112" key="Vcs.Push.Dialog.v2" timestamp="1588171358003">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="220" y="112" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587651895947" />
+    <state x="220" y="112" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1588171358003" />
     <state x="497" y="159" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587640786123">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -376,6 +381,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="369" y="206" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1587651818707" />
+    <state x="0" y="82" key="new project wizard" timestamp="1588251857597">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="82" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1588251857597" />
     <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1587644968142">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
